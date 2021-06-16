@@ -92,6 +92,6 @@ Este componente va mostrar un arreglo de productos (obtenidos de la API) usando 
 - Poder paginar los resultados de a 30 productos por página.
 
 #### Notas
-Crear un repo nuevo en tu github (privado o público) y compartirlo con Nancy Salazar < nancy.nava@utel.edu.mx > una vez que hayas terminado.
+Crear un repo nuevo en tu github (privado o público) y compartémelo en el siguiente correo < nancy.nava@utel.edu.mx > una vez que hayas terminado.
 
 Puedes usar cualquier librería extra para resolver este technical test, ya sea de front-end o de back-end. Te recomiendo usar alguna librería de front-end (Boostrap, Materialize, etc.).
